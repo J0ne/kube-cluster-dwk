@@ -7,4 +7,4 @@ spec:
   interval: 10m
   url: https://github.com/J0ne/project1_backend
   ref:
-    branch: main
+    branch: master
