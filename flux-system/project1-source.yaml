@@ -4,7 +4,7 @@ metadata:
   name: project1-repo
   namespace: flux-system
 spec:
-  interval: 10m
+  interval: 3m
   url: https://github.com/J0ne/project1_backend
   ref:
     branch: main
